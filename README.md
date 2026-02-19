@@ -133,5 +133,5 @@ git clone https://github.com/seu-usuario/operadores-js.git
 
 **Rafaela Oliveira**  💙
 
-Projeto com fins educacionais.
+Estudante de Desenvolvimento de Sistemas
 
